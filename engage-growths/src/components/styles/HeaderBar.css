@@ -1,0 +1,23 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 2em;
+}
+
+nav p {
+    min-width: 15vw;
+}
+
+.middle {
+    font-size: 1.5em;
+}
+
+a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+.active {
+    font-weight: bold;
+}

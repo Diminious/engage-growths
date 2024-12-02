@@ -1,0 +1,23 @@
+.unitSelect {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    gap: 2em;
+}
+
+select {
+    min-width: 15vw;
+    min-height: 4vh;
+    margin: 1em auto;
+    text-align: center;
+    font-size: 1.2em;
+    background-color: hsl(220, 100%, 90%);
+    border-radius: 5px;
+    border: 1px hsl(220, 100%, 80%) solid;
+    box-shadow: 0 0 10px;
+    transition: box-shadow 0.2s;
+}
+
+select:hover {
+    box-shadow: none;
+}

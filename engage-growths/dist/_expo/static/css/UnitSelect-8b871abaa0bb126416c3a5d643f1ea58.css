@@ -1,0 +1,1 @@
+.unitSelect{flex-direction:row;justify-content:space-evenly;gap:2em;display:flex}select{text-align:center;background-color:#cdf;border:1px solid #9bf;border-radius:5px;min-width:15vw;min-height:4vh;margin:1em auto;font-size:1.2em;transition:box-shadow .2s;box-shadow:0 0 10px}select:hover{box-shadow:none}

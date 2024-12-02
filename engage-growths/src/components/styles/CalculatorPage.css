@@ -1,0 +1,12 @@
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.calcFooter {
+    color: white;
+    margin: 0 10vmin;
+    text-shadow: 0 0 10px black;
+}

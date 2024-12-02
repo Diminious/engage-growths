@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  font-size: 16px;
+}
+
+.App-header {
+  color: white;
+  min-height: 10vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(5px + 2vmin);
+  text-shadow: 0 0 10px black;
+}
+
+h1 {
+  margin: .5em auto 0 auto;
+}
+
+.App-footer {
+  color: white;
+  /* margin: 0 10vmin; */
+  text-shadow: 0 0 10px black;
+}

@@ -1,0 +1,122 @@
+table {
+    border: 2px black solid;
+    border-collapse: collapse;
+    background-color: hsl(220, 100%, 80%);
+    box-shadow: black 0px 0px 50px;
+    margin-top: 2em;
+    text-shadow: none;
+}
+
+table:hover {
+    cursor: default;
+}
+
+.toggle {
+    cursor: pointer;
+    padding: 0;
+}
+
+.toggle button {
+    background: none;
+    border: none;
+    font-weight: bold;
+    padding: 0;
+    font-size: 1rem;
+    cursor: pointer;
+    min-width: calc(6em + 16px + 2px);
+    padding: 0.5em 0;
+}
+
+.characterCol {
+    background-color: hsl(220, 100%, 90%);
+    min-width: 12em;
+}
+
+.characterDetail .characterSpan{
+    font-size: 1.5em;
+}
+
+.characterDetail .classSpan{
+    font-size: 1.2em;
+}
+
+.characterDetail{
+    border: none;
+}
+
+th {
+    border: 2px black solid;
+    padding: 0.5em;
+    min-width: 6em;
+}
+
+tr:nth-child(even) td {
+    background-color: hsl(205, 100%, 70%);
+}
+
+tr:nth-child(odd) td {
+    background-color: hsl(210, 100%, 60%);
+}
+
+tr:nth-child(even) .totals {
+    background-color: hsl(205, 100%, 60%);
+}
+
+tr:nth-child(odd) .totals {
+    background-color: hsl(210, 100%, 50%);
+}
+
+.totals {
+    border-left: 2px black solid;
+    border-right: 2px black solid;
+    font-weight: bold;
+}
+
+.toggleOn {
+    background-color: hsl(86, 100%, 50%);
+}
+
+.fullText {
+    display: inline;
+}
+
+.smallCharacterRow {
+    display: none;
+    background-color: hsl(220, 100%, 90%);
+}
+
+
+
+@media only screen and (max-width: 1100px) {
+    th {
+        border: 2px black solid;
+        padding: 0.25em;
+        min-width: 3em;
+    }
+
+    th, td {
+        font-size: 0.9em;
+    }
+
+    .fullText {
+        display: none;
+    }
+
+    .toggle button {
+        min-width: calc(3em + 8px + 2px);
+        padding: 0.25em 0;
+        font-size: 1em;
+    }
+
+    .characterCol {
+        display: none;
+    }
+
+    .smallCharacterRow {
+        display: contents;
+    }
+
+    .smallCharacterRow th {
+        background-color: hsl(220, 100%, 90%);
+    }
+}
