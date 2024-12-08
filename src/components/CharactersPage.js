@@ -22,6 +22,7 @@ const CharactersPage = () => {
                 <th>RES</th>
                 <th>LCK</th>
                 <th>BLD</th>
+                <th>Join Class</th>
             </tr>
         )
     }
@@ -48,6 +49,8 @@ const CharactersPage = () => {
                                     <td>{character.def}</td>
                                     <td>{character.res}</td>
                                     <td>{character.bld}</td>
+                                    <td className="classRow desktop">{character.joinClass}</td>
+                                    <td className="classRow mobile">{character.shortJoinClass}</td>
                                 </tr>
                             </>
                             

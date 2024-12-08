@@ -1,6 +1,8 @@
 [
   {
     "name": "Alear",
+    "joinClass": "Dragon Child",
+    "shortJoinClass": "D. Child",
     "hp": 60,
     "str": 35,
     "mag": 20,
@@ -21,6 +23,8 @@
   },
   {
     "name": "Vander",
+    "joinClass": "Paladin",
+    "shortJoinClass": "Paladin",
     "hp": 60,
     "str": 25,
     "mag": 10,
@@ -41,6 +45,8 @@
   },
   {
     "name": "Clanne",
+    "joinClass": "Mage",
+    "shortJoinClass": "Mage",
     "hp": 40,
     "str": 35,
     "mag": 10,
@@ -61,6 +67,8 @@
   },
   {
     "name": "Framme",
+    "joinClass": "Martial Monk",
+    "shortJoinClass": "M. Monk",
     "hp": 55,
     "str": 30,
     "mag": 25,
@@ -81,6 +89,8 @@
   },
   {
     "name": "Alfred",
+    "joinClass": "Noble (Alfred)",
+    "shortJoinClass": "Noble (A)",
     "hp": 65,
     "str": 40,
     "mag": 5,
@@ -101,6 +111,8 @@
   },
   {
     "name": "Etie",
+    "joinClass": "Archer",
+    "shortJoinClass": "Archer",
     "hp": 45,
     "str": 40,
     "mag": 0,
@@ -121,6 +133,8 @@
   },
   {
     "name": "Boucheron",
+    "joinClass": "Axe Fighter",
+    "shortJoinClass": "A. Fighter",
     "hp": 85,
     "str": 20,
     "mag": 0,
@@ -141,6 +155,8 @@
   },
   {
     "name": "Céline",
+    "joinClass": "Noble (Céline)",
+    "shortJoinClass": "Noble (C)",
     "hp": 50,
     "str": 35,
     "mag": 25,
@@ -161,6 +177,8 @@
   },
   {
     "name": "Chloé",
+    "joinClass": "Flier",
+    "shortJoinClass": "Flier",
     "hp": 75,
     "str": 25,
     "mag": 35,
@@ -181,6 +199,8 @@
   },
   {
     "name": "Louis",
+    "joinClass": "Armor",
+    "shortJoinClass": "Armor",
     "hp": 75,
     "str": 40,
     "mag": 0,
@@ -201,6 +221,8 @@
   },
   {
     "name": "Yunaka",
+    "joinClass": "Thief",
+    "shortJoinClass": "Thief",
     "hp": 50,
     "str": 35,
     "mag": 25,
@@ -221,6 +243,8 @@
   },
   {
     "name": "Alcryst",
+    "joinClass": "Lord (Alcryst)",
+    "shortJoinClass": "Lord (A)",
     "hp": 65,
     "str": 30,
     "mag": 10,
@@ -241,6 +265,8 @@
   },
   {
     "name": "Citrinne",
+    "joinClass": "Mage",
+    "shortJoinClass": "Mage",
     "hp": 45,
     "str": 10,
     "mag": 40,
@@ -261,6 +287,8 @@
   },
   {
     "name": "Lapis",
+    "joinClass": "Sword Fighter",
+    "shortJoinClass": "S. Fighter",
     "hp": 55,
     "str": 25,
     "mag": 20,
@@ -281,6 +309,8 @@
   },
   {
     "name": "Diamant",
+    "joinClass": "Lord (Diamant)",
+    "shortJoinClass": "Lord (D)",
     "hp": 75,
     "str": 30,
     "mag": 15,
@@ -301,6 +331,8 @@
   },
   {
     "name": "Amber",
+    "joinClass": "Cavalier",
+    "shortJoinClass": "Cavalier",
     "hp": 65,
     "str": 45,
     "mag": 0,
@@ -321,6 +353,8 @@
   },
   {
     "name": "Jade",
+    "joinClass": "Armor",
+    "shortJoinClass": "Armor",
     "hp": 55,
     "str": 35,
     "mag": 25,
@@ -341,6 +375,8 @@
   },
   {
     "name": "Ivy",
+    "joinClass": "Wing Tamer (Ivy)",
+    "shortJoinClass": "W. Tamer (I)",
     "hp": 55,
     "str": 25,
     "mag": 30,
@@ -361,6 +397,8 @@
   },
   {
     "name": "Kagetsu",
+    "joinClass": "Swordmaster",
+    "shortJoinClass": "Swordmaster",
     "hp": 60,
     "str": 30,
     "mag": 15,
@@ -381,6 +419,8 @@
   },
   {
     "name": "Zelkov",
+    "joinClass": "Thief",
+    "shortJoinClass": "Thief",
     "hp": 65,
     "str": 35,
     "mag": 15,
@@ -401,6 +441,8 @@
   },
   {
     "name": "Fogado",
+    "joinClass": "Sentinel (Fogado)",
+    "shortJoinClass": "Sentinel (F)",
     "hp": 60,
     "str": 30,
     "mag": 25,
@@ -421,6 +463,8 @@
   },
   {
     "name": "Pandreo",
+    "joinClass": "High Priest",
+    "shortJoinClass": "High Priest",
     "hp": 60,
     "str": 5,
     "mag": 30,
@@ -441,6 +485,8 @@
   },
   {
     "name": "Bunet",
+    "joinClass": "Great Knight",
+    "shortJoinClass": "Great Knight",
     "hp": 65,
     "str": 30,
     "mag": 10,
@@ -461,6 +507,8 @@
   },
   {
     "name": "Timerra",
+    "joinClass": "Sentinel (Timerra)",
+    "shortJoinClass": "Sentinel (T)",
     "hp": 55,
     "str": 25,
     "mag": 25,
@@ -481,6 +529,8 @@
   },
   {
     "name": "Panette",
+    "joinClass": "Berserker",
+    "shortJoinClass": "Berserker",
     "hp": 75,
     "str": 45,
     "mag": 10,
@@ -501,6 +551,8 @@
   },
   {
     "name": "Merrin",
+    "joinClass": "Wolf Knight",
+    "shortJoinClass": "Wolf Knight",
     "hp": 55,
     "str": 25,
     "mag": 25,
@@ -521,6 +573,8 @@
   },
   {
     "name": "Hortensia",
+    "joinClass": "Wing Tamer (Hort.)",
+    "shortJoinClass": "W. Tamer (H)",
     "hp": 40,
     "str": 20,
     "mag": 20,
@@ -541,6 +595,8 @@
   },
   {
     "name": "Seadall",
+    "joinClass": "Dancer",
+    "shortJoinClass": "Dancer",
     "hp": 55,
     "str": 25,
     "mag": 15,
@@ -561,6 +617,8 @@
   },
   {
     "name": "Rosado",
+    "joinClass": "Wyvern Knight",
+    "shortJoinClass": "Wyv. Knight",
     "hp": 75,
     "str": 45,
     "mag": 25,
@@ -581,6 +639,8 @@
   },
   {
     "name": "Goldmary",
+    "joinClass": "Hero",
+    "shortJoinClass": "Hero",
     "hp": 65,
     "str": 30,
     "mag": 5,
@@ -601,6 +661,8 @@
   },
   {
     "name": "Lindon",
+    "joinClass": "Sage",
+    "shortJoinClass": "Sage",
     "hp": 65,
     "str": 25,
     "mag": 25,
@@ -621,6 +683,8 @@
   },
   {
     "name": "Saphir",
+    "joinClass": "Warrior",
+    "shortJoinClass": "Warrior",
     "hp": 80,
     "str": 35,
     "mag": 0,
@@ -641,6 +705,8 @@
   },
   {
     "name": "Veyle",
+    "joinClass": "Fell Child",
+    "shortJoinClass": "Fell Child",
     "hp": 40,
     "str": 25,
     "mag": 45,
@@ -661,6 +727,8 @@
   },
   {
     "name": "Mauvier",
+    "joinClass": "Royal Knight",
+    "shortJoinClass": "Royal Knight",
     "hp": 70,
     "str": 35,
     "mag": 40,
@@ -681,6 +749,8 @@
   },
   {
     "name": "Anna",
+    "joinClass": "Axe Fighter",
+    "shortJoinClass": "A. Fighter",
     "hp": 55,
     "str": 15,
     "mag": 50,
@@ -701,6 +771,8 @@
   },
   {
     "name": "Jean",
+    "joinClass": "Martial Monk",
+    "shortJoinClass": "M. Monk",
     "hp": 50,
     "str": 20,
     "mag": 20,
@@ -721,6 +793,8 @@
   },
   {
     "name": "Nel",
+    "joinClass": "Fell Child (Nel)",
+    "shortJoinClass": "Fell Child (N)",
     "hp": 55,
     "str": 30,
     "mag": 25,
@@ -741,6 +815,8 @@
   },
   {
     "name": "Rafal",
+    "joinClass": "Fell Child (Rafal)",
+    "shortJoinClass": "Fell Child (R)",
     "hp": 70,
     "str": 40,
     "mag": 10,
@@ -761,6 +837,8 @@
   },
   {
     "name": "Zelestia",
+    "joinClass": "Melusine",
+    "shortJoinClass": "Melusine",
     "hp": 60,
     "str": 35,
     "mag": 35,
@@ -781,6 +859,8 @@
   },
   {
     "name": "Gregory",
+    "joinClass": "Sage",
+    "shortJoinClass": "Sage",
     "hp": 55,
     "str": 30,
     "mag": 50,
@@ -801,6 +881,8 @@
   },
   {
     "name": "Madeline",
+    "joinClass": "General",
+    "shortJoinClass": "General",
     "hp": 75,
     "str": 50,
     "mag": 20,

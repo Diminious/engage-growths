@@ -2,6 +2,11 @@
     border-left: 2px solid black;
 }
 
+.referenceList .classRow {
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+}
+
 .referenceList th{
     min-width: 4em;
 }
@@ -17,6 +22,14 @@
     text-decoration: underline;
 }
 
+.mobile {
+    display: none;
+}
+
+.desktop {
+    display: table-cell;
+}
+
 @media only screen and (max-width: 840px) {
     .referenceList th {
         min-width: 2em;
@@ -24,5 +37,19 @@
 
     .referenceList th, td {
         font-size: 0.7em;
+    }
+
+    .referenceList .classRow {
+        font-size: 0.6em;
+        padding-left: 0.3em;
+        padding-right: 0.3em;
+    }
+
+    .mobile {
+        display: table-cell;
+    }
+
+    .desktop {
+        display: none;
     }
 }
